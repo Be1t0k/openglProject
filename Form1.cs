@@ -245,7 +245,7 @@ namespace Moshkov_Pavel_PRI_120_PrKG_KP
                 angleZ = 0;
                 label7.Visible = true;
                 button1.Visible = true;
-                WMP.URL = @"kassa.mp3";
+                WMP.URL = @"shop.mp3";
                 WMP.controls.play();
             }
             AnT.Focus();
